@@ -1,2 +1,2 @@
-Criando um novo arquivo versao 1.0
+Criando um novo arquivo versao 1.0 "Mudando a pagina local"
 Nova versao do arquivo no servidor
