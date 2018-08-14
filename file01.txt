@@ -6,4 +6,4 @@ Versao 1.1 Mais melhorada
 Versao 1.2 Mais Melhorada ainda
 Versao 1.4 Melhor
 Versao 1.5 - Commit Servidor
-Versao 1.6 - Seg Comit Servidor
+Versao 1.5 - Revisao Commit Branch Dsv
