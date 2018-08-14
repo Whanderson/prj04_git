@@ -5,3 +5,4 @@ versao 1.0 Melhorada
 Versao 1.1 Mais melhorada
 Versao 1.2 Mais Melhorada ainda
 Versao 1.4 Melhor
+Versao 1.5 - Commit Servidor
